@@ -11,7 +11,7 @@ The following is a list of repositories. This list is intended to help people fi
 ### Knowledge Graphs and Graph Data Management
 
 This project is concerned with developing analytical techniques over graph databases, etc.
-* project 1
+* SHACL Shape Validation for Evolving Knowledge Graphs: [SHACLate](https://github.com/dbai-tuw/SHACLate/), a bachelor's thesis by Mathias Möller
 
 
 ### Cluster 2
