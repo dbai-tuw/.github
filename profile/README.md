@@ -1,4 +1,6 @@
-## Hi there 👋
+## DBAI on GitHub
+
+<!-- ## Hi there 👋 -->
 
 This is the Databases and Artificial Intelligence ([DBAI](https://informatics.tuwien.ac.at/orgs/e192-02)) group's GitHub organization.
 
