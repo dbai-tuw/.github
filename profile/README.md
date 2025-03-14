@@ -15,6 +15,12 @@ The following is a list of repositories. This list is intended to help people fi
 This project is concerned with developing analytical techniques over graph databases, etc.
 * SHACL Shape Validation for Evolving Knowledge Graphs: [SHACLate](https://github.com/dbai-tuw/SHACLate/), a bachelor's thesis by Mathias Möller
 
+### TARGET Project
+
+The [TARGET project](https://target-horizon.eu) aims to revolutionise the management of Atrial Fibrillation (AF) and AF-related strokes (AFRS) by developing novel virtual twin-based AI models. Knowledge Graphs are used to consolidate, harmonize and organize the patient data, in order to develop the necessary AI models.
+
+* Generating RDF Knowledge Graphs from patient data (tabular and binary): [TARGET Project Development repository](https://github.com/dbai-tuw/TARGET-project-development). Maintained by [Dr. Milos Jovanovik](https://github.com/mjovanovik)
+
 <!--
 ### Cluster 2
 * project 1
